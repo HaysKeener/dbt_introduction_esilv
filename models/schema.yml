@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: voyages
+    columns:
+      - name: Primary_Product_Code
+        tests:
+          - accepted_values:
+              values: ["Air", "Rail"]
