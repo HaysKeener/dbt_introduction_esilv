@@ -6,5 +6,6 @@ sources:
       external_location: "data/{name}.csv"
     tables:
       - name: voyage_08_2022
+      - name: voyage_09_2022
       - name: REF_FE_Voyage
 
